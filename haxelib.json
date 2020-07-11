@@ -1,0 +1,6 @@
+{
+	"name": "HScript Order of Operations Bug",
+	"dependencies": {
+		"hscript":"git:https://github.com/HaxeFoundation/hscript.git#ae9560124efa6c8cab2737597bac9247e32383e9"
+	}
+}

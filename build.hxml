@@ -1,0 +1,4 @@
+--library hscript
+--class-path .
+--main Main
+--interp
